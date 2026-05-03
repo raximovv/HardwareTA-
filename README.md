@@ -1,1 +1,2 @@
 # HardwareTA-
+This project builds a local Retrieval Augmented Generation system for hardware engineering workflows. It allows you to load datasheet PDFs, automatically extract and index their content, and ask questions in natural language. The system retrieves the most relevant sections from the documents and generates answers with exact page number citations. This reduces the time engineers spend manually searching through large datasheets and demonstrates how AI can assist real technical analysis tasks.
